@@ -15,4 +15,4 @@ stay tuned
 
 🤓 
 
-[www.kleincomputer.dev](www.kleincomputer.dev)
+[www.kleincomputer.dev](https://www.kleincomputer.dev)
