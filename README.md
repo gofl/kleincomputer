@@ -1,5 +1,5 @@
 ###### noun
-# Kleincomputer 💻
+# Kleincomputer
 _klein · com · pu · ter_
 
 1. german
