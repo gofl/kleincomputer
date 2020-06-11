@@ -7,10 +7,12 @@ _klein · com · pu · ter_
 
 My personal upcoming website project using 
 
-* Azure Static Web (Preview)
-* Angular
-* Github's Kanban/Issue Tracker and Actions
+* [Azure Static Web](https://docs.microsoft.com/en-us/azure/static-web-apps/) ✌️
+* Angular 🤟🏻
+* Github Actions 🚀 🚛
 
 stay tuned 
 
 🤓 
+
+[www.kleincomputer.dev](www.kleincomputer.dev)
