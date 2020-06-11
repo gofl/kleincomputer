@@ -4,6 +4,8 @@ _klein · com · pu · ter_
 
 1. german
 2. a small computer
+3. computer built in the [DDR](https://en.wikipedia.org/wiki/East_Germany) like [KC 87](https://de.wikipedia.org/wiki/Robotron_Z_9001,_Robotron_KC_85/1,_Robotron_KC_87)
+ 
 
 My personal upcoming website project using 
 
