@@ -1,0 +1,5 @@
+baseURL = "https://kleincomputer.dev"
+languageCode = "en-us"
+title = "Kleincomputer"
+
+theme = "codex"
