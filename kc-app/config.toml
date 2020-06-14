@@ -5,5 +5,5 @@ title = "Kleincomputer"
 theme = "codex"
 
 [params]
-  twitter = "hugo-theme-codex"
-  github = "jakewies/hugo-theme-codex"
+  twitter = "heygofl"
+  github = "gofl/kleincomputer"
