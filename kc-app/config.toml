@@ -7,3 +7,4 @@ theme = "codex"
 [params]
   twitter = "heygofl"
   github = "gofl/kleincomputer"
+  handle = "gofl"
