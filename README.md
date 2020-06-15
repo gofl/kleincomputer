@@ -10,7 +10,7 @@ _klein · com · pu · ter_
 My personal upcoming website project using 
 
 * [Azure Static Web](https://docs.microsoft.com/en-us/azure/static-web-apps/) ✌️
-* Angular 🤟🏻
+* [HUGO](https://gohugo.io)
 * Github Actions 🚀 🚛
 
 stay tuned 
