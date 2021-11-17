@@ -1,9 +1,0 @@
-baseURL = "https://kleincomputer.dev"
-languageCode = "en-us"
-title = "Kleincomputer"
-
-theme = "codex"
-
-[params]
-  twitter = "heygofl"
-  github = "gofl/kleincomputer"
