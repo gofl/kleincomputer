@@ -15,3 +15,33 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.logo-header-content {
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  -webkit-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+}
+
+.logo-header-first {
+  font-family: 'VT323', monospace;
+  position: relative;
+  z-index: 3;
+}
+
+.logo-header-second {
+  font-family: 'VT323', monospace;
+  position: relative;
+  top: -125px;
+  left: 3px;
+  z-index: 2;
+}
+
+.logo-header-third {
+  font-family: 'VT323', monospace;
+  position: relative;
+  top: -255px;
+  left: -3px;
+  z-index: 1;
+}
